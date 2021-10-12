@@ -3,7 +3,7 @@
 Install with:
 
 ```go
-go get github.com/datawowio/posmoni
+go get github.com/datawowio/posmoni-go
 ```
 
 # Usage
@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"log"
 
-	posmoni "github.com/datawowio/posmoni"
-	"github.com/datawowio/posmoni/actions"
+	posmoni "github.com/datawowio/posmoni-go"
+	"github.com/datawowio/posmoni-go/actions"
 )
 
 const (

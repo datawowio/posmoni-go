@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/datawowio/posmoni/actions"
+	"github.com/datawowio/posmoni-go/actions"
 )
 
 // Client is like a API Gateway for Posmoni. Client will let you call available

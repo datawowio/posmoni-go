@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/datawowio/posmoni/config"
+	"github.com/datawowio/posmoni-go/config"
 )
 
 const (

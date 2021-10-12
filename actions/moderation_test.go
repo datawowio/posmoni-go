@@ -3,7 +3,7 @@ package actions
 import (
 	"testing"
 
-	"github.com/datawowio/posmoni/config"
+	"github.com/datawowio/posmoni-go/config"
 	a "github.com/stretchr/testify/assert"
 )
 

@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/datawowio/posmoni/actions"
-	"github.com/datawowio/posmoni/config"
+	"github.com/datawowio/posmoni-go/actions"
+	"github.com/datawowio/posmoni-go/config"
 	a "github.com/stretchr/testify/assert"
 	"gopkg.in/h2non/gock.v1"
 )
